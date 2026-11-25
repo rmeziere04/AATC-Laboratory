@@ -14,7 +14,7 @@ Here are the rules:
 7. To qualify as a tutorial, your code must be both functional and well explained with comments.
 8. Slop (unedited, poorly understood AI code) is banned. (who do you think we are, CS Majors?)
 
-Remember: This is not a scratchpad. If you've ever done formal research before, think of this as a laboratory notebook. Everything here should be reproducible one someone else's machine.
+Remember: This is not a scratchpad. If you've ever done formal research before, think of this as a laboratory notebook. Everything here should be reproducible on someone else's machine.
 
 Do Code, Have Fun!
 
